@@ -6,3 +6,5 @@ members affected by this disease since it is one of the main causes of death in 
 objective of this code is to develop an inertial tracking system for recognizing compensatory 
 movements during the implementation of the virtual reality game in the rehabilitation of upper limbs 
 of patients with post-stroke trauma.
+
+![Upper limb simulation](https://i.imgur.com/U3bfEBR.png)
